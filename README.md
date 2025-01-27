@@ -15,7 +15,7 @@ O objetivo principal deste projeto foi praticar conceitos de estruturação e es
 ## 🎯 O que ele faz?
 
 - Apresenta informações principais sobre o filme **Broly** em uma página atraente.  
-- Inclui animações suaves ao rolar a página, dando um efeito dinâmico à apresentação.  
+- Inclui animações suaves ao recarregar a página, dando um efeito dinâmico à apresentação.  
 - Conta com uma interface responsiva, adaptada para diferentes tamanhos de tela.
 
 ## 📚 O que eu aprendi?
